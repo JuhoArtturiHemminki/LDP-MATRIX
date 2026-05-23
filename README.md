@@ -78,3 +78,4 @@ When designing runtime engines or high-performance WebAssembly runtimes, enginee
 ---
 
 **Author/License: Juho Artturi Hemminki**
+projectflagcarrier@gmail.com
